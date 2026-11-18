@@ -8,3 +8,5 @@
   - Commit and push to repo
 
 - Done/Stuck
+  - Got stuck on using the correct Node version. Searched for all nodes and selected which on. ALl through terminal.
+  - Work around for not using my GitHUb password to push a commit. Used brew to use gh auth login.
